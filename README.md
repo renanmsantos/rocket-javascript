@@ -1,2 +1,2 @@
-# rocket-javascript
+# RocketSeat - Javascript
 Javascript Course Starter RocketSeat
